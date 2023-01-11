@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_GestionModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Categorie">
+    <Key>
+      <PropertyRef Name="codecateg" />
+    </Key>
+    <Property Name="codecateg" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nom_Categorie" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="CodeClt" />
+    </Key>
+    <Property Name="CodeClt" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NomClt" Type="nchar" MaxLength="50" />
+    <Property Name="PrenomClt" Type="nchar" MaxLength="50" />
+    <Property Name="telClt" Type="nchar" MaxLength="50" />
+    <Property Name="emailClt" Type="nchar" MaxLength="50" />
+    <Property Name="adrClt" Type="nchar" MaxLength="50" />
+    <Property Name="codepostale" Type="int" />
+  </EntityType>
+  <EntityType Name="Commande">
+    <Key>
+      <PropertyRef Name="code_cde" />
+    </Key>
+    <Property Name="code_cde" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="date_commande" Type="date" />
+    <Property Name="CodeClt" Type="int" />
+    <Property Name="Total_HT" Type="nvarchar" MaxLength="250" />
+    <Property Name="TVA" Type="nvarchar" MaxLength="250" />
+    <Property Name="Total_TTC" Type="nvarchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="ligne-Commande">
+    <Key>
+      <PropertyRef Name="code_Produit" />
+      <PropertyRef Name="code_cde" />
+      <PropertyRef Name="quantité" />
+      <PropertyRef Name="IdDetail" />
+    </Key>
+    <Property Name="code_Produit" Type="int" Nullable="false" />
+    <Property Name="code_cde" Type="int" Nullable="false" />
+    <Property Name="quantité" Type="int" Nullable="false" />
+    <Property Name="IdDetail" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nom_Produit" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Prix" Type="nvarchar" MaxLength="250" />
+    <Property Name="Remise" Type="nvarchar" MaxLength="250" />
+    <Property Name="Total" Type="nvarchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="Produit">
+    <Key>
+      <PropertyRef Name="code_Produit" />
+    </Key>
+    <Property Name="code_Produit" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nom_Produit" Type="nchar" MaxLength="50" />
+    <Property Name="Quantité_Produit" Type="int" />
+    <Property Name="Prix_Produit" Type="int" />
+    <Property Name="codecateg" Type="int" />
+  </EntityType>
+  <EntityType Name="tbllogin">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="username" Type="nchar" MaxLength="50" />
+    <Property Name="mdp" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="[[FK_ligne-Commande_Client">
+    <End Role="Commande" Type="Self.Commande" Multiplicity="1" />
+    <End Role="ligne-Commande" Type="Self.ligne-Commande" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Commande">
+        <PropertyRef Name="code_cde" />
+      </Principal>
+      <Dependent Role="ligne-Commande">
+        <PropertyRef Name="code_cde" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="[FK_ligne-Commande_Produit">
+    <End Role="Produit" Type="Self.Produit" Multiplicity="1" />
+    <End Role="ligne-Commande" Type="Self.ligne-Commande" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Produit">
+        <PropertyRef Name="code_Produit" />
+      </Principal>
+      <Dependent Role="ligne-Commande">
+        <PropertyRef Name="code_Produit" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Commande_Client">
+    <End Role="Client" Type="Self.Client" Multiplicity="0..1" />
+    <End Role="Commande" Type="Self.Commande" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Client">
+        <PropertyRef Name="CodeClt" />
+      </Principal>
+      <Dependent Role="Commande">
+        <PropertyRef Name="CodeClt" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Produit_categorie">
+    <End Role="Categorie" Type="Self.Categorie" Multiplicity="0..1" />
+    <End Role="Produit" Type="Self.Produit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categorie">
+        <PropertyRef Name="codecateg" />
+      </Principal>
+      <Dependent Role="Produit">
+        <PropertyRef Name="codecateg" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DB_GestionModelStoreContainer">
+    <EntitySet Name="Categorie" EntityType="Self.Categorie" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Client" EntityType="Self.Client" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Commande" EntityType="Self.Commande" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ligne-Commande" EntityType="Self.ligne-Commande" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Produit" EntityType="Self.Produit" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbllogin" EntityType="Self.tbllogin" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="[[FK_ligne-Commande_Client" Association="Self.[[FK_ligne-Commande_Client">
+      <End Role="Commande" EntitySet="Commande" />
+      <End Role="ligne-Commande" EntitySet="ligne-Commande" />
+    </AssociationSet>
+    <AssociationSet Name="[FK_ligne-Commande_Produit" Association="Self.[FK_ligne-Commande_Produit">
+      <End Role="Produit" EntitySet="Produit" />
+      <End Role="ligne-Commande" EntitySet="ligne-Commande" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Commande_Client" Association="Self.FK_Commande_Client">
+      <End Role="Client" EntitySet="Client" />
+      <End Role="Commande" EntitySet="Commande" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Produit_categorie" Association="Self.FK_Produit_categorie">
+      <End Role="Categorie" EntitySet="Categorie" />
+      <End Role="Produit" EntitySet="Produit" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

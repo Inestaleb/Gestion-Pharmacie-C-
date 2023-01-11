@@ -1,0 +1,312 @@
+C:\Users\user\source\repos\app\app\bin\Debug\app.exe.config
+C:\Users\user\source\repos\app\app\bin\Debug\app.exe
+C:\Users\user\source\repos\app\app\bin\Debug\app.pdb
+C:\Users\user\source\repos\app\app\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\app\app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\app\app\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\app\app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\app\app\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\user\source\repos\app\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\user\source\repos\app\app\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\user\source\repos\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\app\app\obj\Debug\app.csproj.CopyComplete
+C:\Users\user\source\repos\app\app\obj\Debug\app.exe
+C:\Users\user\source\repos\app\app\obj\Debug\app.pdb
+C:\Users\user\source\repos\app\app\obj\Debug\app.FormMenu.resources
+C:\Users\user\source\repos\app\app\obj\Debug\app.login.resources
+C:\Users\user\source\repos\app\app\obj\Debug\app.UserClient.resources
+C:\Users\user\source\repos\app\app\obj\Debug\app.FormAjouter.resources
+C:\Users\user\source\repos\app\app\obj\Debug\app.UserProduit.resources
+C:\Users\user\source\repos\app\app\obj\Debug\app.FormAjouterProduit.resources
+C:\Users\user\source\repos\app\app\obj\Debug\app.UserCategorie.resources
+C:\Users\user\source\repos\app\app\obj\Debug\app.FormAjouterCatégorie.resources
+C:\Users\user\source\repos\app\app\obj\Debug\app.UserCommande.resources
+C:\Users\user\source\repos\app\app\obj\Debug\app.FormLigneCommande.resources
+C:\Users\user\source\repos\app\app\obj\Debug\app.ListesClient.resources
+C:\Users\user\source\repos\app\app\obj\Debug\app.FormProduitCommande.resources
+C:\Users\user\source\repos\app\app\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\source\repos\app\app\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\source\repos\app\app\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\source\repos\app\app\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\source\repos\app\app\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user\source\repos\app\app\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\source\repos\app\app\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user\source\repos\app\app\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\source\repos\app\app\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\user\source\repos\app\app\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\user\source\repos\app\app\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user\source\repos\app\app\bin\Debug\EnvDTE.dll
+C:\Users\user\source\repos\app\app\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\user\source\repos\app\app\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\user\source\repos\app\app\bin\Debug\stdole.dll
+C:\Users\user\source\repos\app\app\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\user\source\repos\app\app\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\user\source\repos\app\app\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\user\source\repos\app\app\bin\Debug\Microsoft.MSXML.dll
+C:\Users\user\source\repos\app\app\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\app\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\source\repos\app\app\obj\Debug\RdlCompile.cache
+C:\Users\user\source\repos\app\app\obj\Debug\RdlCompile.compiled
+C:\Users\user\source\repos\app\app\obj\Debug\app.FormImper.resources
+C:\Users\user\source\repos\app\app\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\app.exe.config
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\app.exe
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\app.pdb
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Controllers.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Model.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\EnvDTE.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\stdole.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Microsoft.MSXML.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Controllers.pdb
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Controllers.dll.config
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Model.pdb
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\Model.dll.config
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.AjouterFournisseur.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.FormAjouter.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.FormAjouterCatégorie.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.FormAjouterProduit.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.ListesClient.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.FormLigneCommande.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.FormLigneVente.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.FormMenu.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.FormProduitCommande.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.FormImper.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.FormProduitVente.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.FournisseurCommande.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.login.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.UserCategorie.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.UserClient.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.UserCommande.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.UserFournisseur.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.UserProduit.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.UserVente.resources
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\RdlCompile.cache
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\RdlCompile.compiled
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.csproj.CopyComplete
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.exe
+C:\Users\user\OneDrive\Bureau\GestionStock\app\obj\Debug\app.pdb
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\app.exe.config
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\app.exe
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\app.pdb
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Controllers.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Model.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\EnvDTE.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\stdole.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Microsoft.MSXML.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Controllers.pdb
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Controllers.dll.config
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Model.pdb
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\Model.dll.config
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.AjouterFournisseur.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.FormAjouter.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.FormAjouterCatégorie.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.FormAjouterProduit.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.ListesClient.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.FormLigneCommande.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.FormLigneVente.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.FormMenu.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.FormProduitCommande.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.FormImper.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.FormProduitVente.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.FournisseurCommande.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.login.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.UserCategorie.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.UserClient.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.UserCommande.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.UserFournisseur.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.UserProduit.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.UserVente.resources
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\RdlCompile.cache
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\RdlCompile.compiled
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.csproj.CopyComplete
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.exe
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\app\obj\Debug\app.pdb

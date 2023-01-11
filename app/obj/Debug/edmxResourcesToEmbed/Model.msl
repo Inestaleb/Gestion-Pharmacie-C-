@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_GestionModelStoreContainer" CdmEntityContainer="DB_GestionEntities4">
+    <EntitySetMapping Name="Catégorie">
+      <EntityTypeMapping TypeName="DB_GestionModel.Catégorie">
+        <MappingFragment StoreEntitySet="Catégorie">
+          <ScalarProperty Name="codecateg" ColumnName="codecateg" />
+          <ScalarProperty Name="libcateg" ColumnName="libcateg" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="DB_GestionModel.Client">
+        <MappingFragment StoreEntitySet="Client">
+          <ScalarProperty Name="CodeClt" ColumnName="CodeClt" />
+          <ScalarProperty Name="NomClt" ColumnName="NomClt" />
+          <ScalarProperty Name="PrenomClt" ColumnName="PrenomClt" />
+          <ScalarProperty Name="telClt" ColumnName="telClt" />
+          <ScalarProperty Name="emailClt" ColumnName="emailClt" />
+          <ScalarProperty Name="adrClt" ColumnName="adrClt" />
+          <ScalarProperty Name="codepostale" ColumnName="codepostale" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Commandes">
+      <EntityTypeMapping TypeName="DB_GestionModel.Commande">
+        <MappingFragment StoreEntitySet="Commande">
+          <ScalarProperty Name="codecde" ColumnName="codecde" />
+          <ScalarProperty Name="datecde" ColumnName="datecde" />
+          <ScalarProperty Name="cdeliv" ColumnName="cdeliv" />
+          <ScalarProperty Name="mtcde" ColumnName="mtcde" />
+          <ScalarProperty Name="CodeClt" ColumnName="CodeClt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ligne_Commande">
+      <EntityTypeMapping TypeName="DB_GestionModel.Ligne_Commande">
+        <MappingFragment StoreEntitySet="Ligne_Commande">
+          <ScalarProperty Name="code_Produit" ColumnName="code_Produit" />
+          <ScalarProperty Name="codecde" ColumnName="codecde" />
+          <ScalarProperty Name="quantité" ColumnName="quantité" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Produits">
+      <EntityTypeMapping TypeName="DB_GestionModel.Produit">
+        <MappingFragment StoreEntitySet="Produit">
+          <ScalarProperty Name="code_Produit" ColumnName="code_Produit" />
+          <ScalarProperty Name="Nom_Produit" ColumnName="Nom_Produit" />
+          <ScalarProperty Name="Quantité_Produit" ColumnName="Quantité_Produit" />
+          <ScalarProperty Name="Prix_Produit" ColumnName="Prix_Produit" />
+          <ScalarProperty Name="codecateg" ColumnName="codecateg" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbllogins">
+      <EntityTypeMapping TypeName="DB_GestionModel.tbllogin">
+        <MappingFragment StoreEntitySet="tbllogin">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="mdp" ColumnName="mdp" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

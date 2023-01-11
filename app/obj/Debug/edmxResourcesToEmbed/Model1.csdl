@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_GestionModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DB_GestionEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categories" EntityType="DB_GestionModel.Categorie" />
+    <EntitySet Name="Clients" EntityType="DB_GestionModel.Client" />
+    <EntitySet Name="Commandes" EntityType="DB_GestionModel.Commande" />
+    <EntitySet Name="ligne_Commande" EntityType="DB_GestionModel.ligne_Commande" />
+    <EntitySet Name="Produits" EntityType="DB_GestionModel.Produit" />
+    <EntitySet Name="tbllogins" EntityType="DB_GestionModel.tbllogin" />
+    <AssociationSet Name="FK_Produit_categorie" Association="DB_GestionModel.FK_Produit_categorie">
+      <End Role="Categorie" EntitySet="Categories" />
+      <End Role="Produit" EntitySet="Produits" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Commande_Client" Association="DB_GestionModel.FK_Commande_Client">
+      <End Role="Client" EntitySet="Clients" />
+      <End Role="Commande" EntitySet="Commandes" />
+    </AssociationSet>
+    <AssociationSet Name="C__FK_ligne_Commande_Client" Association="DB_GestionModel.C__FK_ligne_Commande_Client">
+      <End Role="Commande" EntitySet="Commandes" />
+      <End Role="ligne_Commande" EntitySet="ligne_Commande" />
+    </AssociationSet>
+    <AssociationSet Name="C_FK_ligne_Commande_Produit" Association="DB_GestionModel.C_FK_ligne_Commande_Produit">
+      <End Role="Produit" EntitySet="Produits" />
+      <End Role="ligne_Commande" EntitySet="ligne_Commande" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Categorie">
+    <Key>
+      <PropertyRef Name="codecateg" />
+    </Key>
+    <Property Name="codecateg" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nom_Categorie" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="Produits" Relationship="DB_GestionModel.FK_Produit_categorie" FromRole="Categorie" ToRole="Produit" />
+  </EntityType>
+  <EntityType Name="Client">
+    <Key>
+      <PropertyRef Name="CodeClt" />
+    </Key>
+    <Property Name="CodeClt" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NomClt" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="PrenomClt" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="telClt" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="emailClt" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="adrClt" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="codepostale" Type="Int32" />
+    <NavigationProperty Name="Commandes" Relationship="DB_GestionModel.FK_Commande_Client" FromRole="Client" ToRole="Commande" />
+  </EntityType>
+  <EntityType Name="Commande">
+    <Key>
+      <PropertyRef Name="code_cde" />
+    </Key>
+    <Property Name="code_cde" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="date_commande" Type="DateTime" Precision="0" />
+    <Property Name="CodeClt" Type="Int32" />
+    <Property Name="Total_HT" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="TVA" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Total_TTC" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Client" Relationship="DB_GestionModel.FK_Commande_Client" FromRole="Commande" ToRole="Client" />
+    <NavigationProperty Name="ligne_Commande" Relationship="DB_GestionModel.C__FK_ligne_Commande_Client" FromRole="Commande" ToRole="ligne_Commande" />
+  </EntityType>
+  <EntityType Name="ligne_Commande">
+    <Key>
+      <PropertyRef Name="code_Produit" />
+      <PropertyRef Name="code_cde" />
+      <PropertyRef Name="quantité" />
+      <PropertyRef Name="IdDetail" />
+    </Key>
+    <Property Name="code_Produit" Type="Int32" Nullable="false" />
+    <Property Name="code_cde" Type="Int32" Nullable="false" />
+    <Property Name="quantité" Type="Int32" Nullable="false" />
+    <Property Name="IdDetail" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nom_Produit" Type="String" Nullable="false" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Prix" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Remise" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Total" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Commande" Relationship="DB_GestionModel.C__FK_ligne_Commande_Client" FromRole="ligne_Commande" ToRole="Commande" />
+    <NavigationProperty Name="Produit" Relationship="DB_GestionModel.C_FK_ligne_Commande_Produit" FromRole="ligne_Commande" ToRole="Produit" />
+  </EntityType>
+  <EntityType Name="Produit">
+    <Key>
+      <PropertyRef Name="code_Produit" />
+    </Key>
+    <Property Name="code_Produit" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nom_Produit" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="Quantité_Produit" Type="Int32" />
+    <Property Name="Prix_Produit" Type="Int32" />
+    <Property Name="codecateg" Type="Int32" />
+    <NavigationProperty Name="Categorie" Relationship="DB_GestionModel.FK_Produit_categorie" FromRole="Produit" ToRole="Categorie" />
+    <NavigationProperty Name="ligne_Commande" Relationship="DB_GestionModel.C_FK_ligne_Commande_Produit" FromRole="Produit" ToRole="ligne_Commande" />
+  </EntityType>
+  <EntityType Name="tbllogin">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="username" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="mdp" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_Produit_categorie">
+    <End Type="DB_GestionModel.Categorie" Role="Categorie" Multiplicity="0..1" />
+    <End Type="DB_GestionModel.Produit" Role="Produit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categorie">
+        <PropertyRef Name="codecateg" />
+      </Principal>
+      <Dependent Role="Produit">
+        <PropertyRef Name="codecateg" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Commande_Client">
+    <End Type="DB_GestionModel.Client" Role="Client" Multiplicity="0..1" />
+    <End Type="DB_GestionModel.Commande" Role="Commande" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Client">
+        <PropertyRef Name="CodeClt" />
+      </Principal>
+      <Dependent Role="Commande">
+        <PropertyRef Name="CodeClt" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="C__FK_ligne_Commande_Client">
+    <End Type="DB_GestionModel.Commande" Role="Commande" Multiplicity="1" />
+    <End Type="DB_GestionModel.ligne_Commande" Role="ligne_Commande" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Commande">
+        <PropertyRef Name="code_cde" />
+      </Principal>
+      <Dependent Role="ligne_Commande">
+        <PropertyRef Name="code_cde" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="C_FK_ligne_Commande_Produit">
+    <End Type="DB_GestionModel.Produit" Role="Produit" Multiplicity="1" />
+    <End Type="DB_GestionModel.ligne_Commande" Role="ligne_Commande" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Produit">
+        <PropertyRef Name="code_Produit" />
+      </Principal>
+      <Dependent Role="ligne_Commande">
+        <PropertyRef Name="code_Produit" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

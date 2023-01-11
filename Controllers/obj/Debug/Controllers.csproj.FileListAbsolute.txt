@@ -1,0 +1,34 @@
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\bin\Debug\Controllers.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\bin\Debug\Controllers.pdb
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\bin\Debug\Model.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\bin\Debug\Model.pdb
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\bin\Debug\Model.dll.config
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\obj\Debug\Controllers.dll
+C:\Users\user\OneDrive\Bureau\GestionStock\Controllers\obj\Debug\Controllers.pdb
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\bin\Debug\Controllers.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\bin\Debug\Controllers.pdb
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\bin\Debug\Model.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\bin\Debug\Model.pdb
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\bin\Debug\Model.dll.config
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\obj\Debug\Controllers.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\obj\Debug\Controllers.dll
+C:\Users\user\OneDrive\Bureau\Projet C# Ines taleb G2\GestionPharmacie\Controllers\obj\Debug\Controllers.pdb
